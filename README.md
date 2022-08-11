@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+项目预览地址 https://paulusy.github.io/admin-template.io/
 
 You can use the [editor on GitHub](https://github.com/PaulusY/admin-template.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
